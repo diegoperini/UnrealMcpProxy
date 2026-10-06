@@ -27,8 +27,8 @@ Public Domain
 
 ## Disclaimer
 
-Prototype drafted by Opus 5.5 (AI), then was debugged and stripped into its minimum viable form by me (human). If you have no AI policy, you may wanna skip this one. Don't ship it in production, it's a development tool. If it becomes sentient and invades your country, it's not my fault.
+Prototype drafted by Opus 5.5 (AI), then was debugged and stripped into its minimum viable form by me (human). If you have no AI policy, you may wanna skip this one. Don't ship it to production, it's a development tool. If it becomes sentient and invades your country, it's not my fault.
 
 ## Contribution
 
-Please submit a PR to improve this readme with instructions for other agent tools.
+Please submit a PR to improve this README with instructions for other agent tools.
